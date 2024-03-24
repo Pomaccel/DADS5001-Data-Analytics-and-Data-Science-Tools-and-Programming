@@ -2,7 +2,7 @@
 
 ชุดข้อมูลพฤติกรรมการใช้จ่ายของนักศึกษาจำนวน 1000 คนจากมหาวิทยาลัยแห่งหนึ่งในต่างประเทศ  
 แหล่งข้อมูล : https://www.kaggle.com/datasets/sumanthnimmagadda/student-spending-dataset  
-![6610422013_Plotly](https://github.com/Pomaccel/DADS5001-Data-Analytics-and-Data-Science-Tools-and-Programming/assets/158060569/e62adbbd-70d4-4028-9033-a36551ab8c27)
+![newplot (4)](https://github.com/Pomaccel/DADS5001-Data-Analytics-and-Data-Science-Tools-and-Programming/assets/158060569/7902496a-a459-48e6-8bbb-f304eef7e3ba)
 
 **อธิบายชุดข้อมูล**  
 ชุดข้อมูลนี้แสดงพฤติกรรมการใช้จ่ายของนักศึกษาจำนวน 1000 คนจาก ชั้นปีที่ 1 (Freshman),ชั้นปีที่ 2 (Freshman), ชั้นปีที่ 3 (Junior) และชั้นปีที่ 4 (Senior)  
@@ -10,7 +10,11 @@
 จากแต่ละที่คณะที่แตกต่างกันซึ่งประกอบด้วย คณะจิตวิทยา(Psychology), เศรษฐศาสตร์(Economics), วิทยาการคอมพิวเตอร์(Computer Science), วิศวกรรม(Engineering) และ ชิววิทยา(Biology)
 รวมไปถึง รูปแบบวิธีการชำระเงินแบบต่างๆ ประกอบด้วย เงินสด (Cash), บัตรเครดิตหรือบัตรเดบิต(Credit/Debit Card) และ ผ่านแอพชำระเงินผ่านมือถือ
 
-**ข้อมูลที่สุดใจศึกษา**
+**ข้อมูลที่ต้องกาศึกษา**
+- ยอดเงินที่นักศึกษาใช้จ่ายในการชำระเงินค่าอาหาร ของนักศึกษาแต่ละชั้นปีในแต่ละคณะ
+- รูปแบบการชำระเงินที่นักศึกษนิยมใช้กัน
+
+**เลือกกราฟ สำหรับการวิเคราะห์ข้อมูล**
 
 
 
