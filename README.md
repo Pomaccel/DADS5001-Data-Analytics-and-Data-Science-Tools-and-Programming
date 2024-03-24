@@ -18,6 +18,7 @@
 ![newplot (4)](https://github.com/Pomaccel/DADS5001-Data-Analytics-and-Data-Science-Tools-and-Programming/assets/158060569/7902496a-a459-48e6-8bbb-f304eef7e3ba)
 
 จากกราฟจะเห็นได้ว่า นักศึกษาปี 4 คณะเศรษฐศาสตร์ มีการใช้เงินในการชำระค่าอาหารมากที่สุด และมีการใช้จ่ายโดยใช้บัตรเครดิตหรือบัตรเดบิตมากที่สุดเช่นกัน 
+
 Assignment
 1. To create one chart (your selection) by using Plotly
 2. Get your own data, clean, analyze, and plot
