@@ -1,5 +1,7 @@
 **DADS5001 AS03**
 
+By บุลวัชร์  เจริญยืนนาน 6610422013
+
 ชุดข้อมูลพฤติกรรมการใช้จ่ายของนักศึกษาจำนวน 1000 คนจากมหาวิทยาลัยแห่งหนึ่งในต่างประเทศ  
 แหล่งข้อมูล : https://www.kaggle.com/datasets/sumanthnimmagadda/student-spending-dataset  
 ตัวอย่าง Code :https://github.com/Pomaccel/DADS5001-Data-Analytics-and-Data-Science-Tools-and-Programming/blob/main/6610422013_AS03.ipynb
