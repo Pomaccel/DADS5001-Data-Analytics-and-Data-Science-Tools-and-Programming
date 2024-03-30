@@ -22,10 +22,3 @@
 - นักศึกษาปี 4 คณะเศรษฐศาสตร์ มีการใช้เงินในการชำระค่าอาหารมากที่สุด และมีการใช้จ่ายโดยใช้บัตรเครดิตหรือบัตรเดบิตมากที่สุดเช่นกัน
 - นักศึกษาปี 4 ชีววิทยา มีอัตราการใช้แอพชำระเงินผ่านมือถือ ค่อนข้างน้อย เมื่อเทียบกับ การชำระเงินผ่านบบัตรเครคิตและเงินสด 
 
-Assignment
-1. To create one chart (your selection) by using Plotly
-2. Get your own data, clean, analyze, and plot
-3. Link to yr Github (code)
-   3.1 Post the image of your chart
-   3.2 Explain your data sources
-   3.3 Explain why choose the chart with your data
